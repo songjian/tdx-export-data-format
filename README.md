@@ -9,3 +9,8 @@ tree docs/
 docs/
 └── 通达信数据导出.odt
 ```
+
+## 交流
+
+* QQ: 724385768
+* TG: https://t.me/kw3p9
