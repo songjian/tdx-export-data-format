@@ -1,1 +1,2 @@
-tdx_stocks.csv
+*.csv
+*.gz
